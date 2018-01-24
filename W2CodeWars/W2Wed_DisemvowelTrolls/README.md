@@ -1,4 +1,6 @@
-link:
-https://www.codewars.com/kata/nice-array/solutions/javascript/me/best_practice
+New link:
 
-https://www.codewars.com/users/IFREECAN/completed_solutions
+https://www.codewars.com/kata/disemvowel-trolls/solutions/javascript
+
+
+
